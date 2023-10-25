@@ -1,2 +1,2 @@
-# RealTime-Chat-Application
-Built using React.js, Node.js, Express.js and Socket.io
+# back-end-socketio
+Backend enabled to work with [This](https://github.com/davidzas/react-chat)
